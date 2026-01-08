@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/arnav-42/arnav-42/output/github-contribution-grid-snake.svg" />
+[//]: # (<img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/arnav-42/arnav-42/output/github-contribution-grid-snake.svg" />)
 
 ###
